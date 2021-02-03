@@ -5,7 +5,6 @@
     xmlns:xsp="http://www.owl-ontologies.com/2005/08/07/xsp.owl#"
     xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
-    xmlns:j.0="http://www.w3.org/2006/vcard/ns#"
     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
